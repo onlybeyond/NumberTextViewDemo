@@ -1,9 +1,10 @@
 # NumberTextViewDemo# 
 使用
  1、项目配置
-     
-![Alt text](./图片1.png)
-    1.1、在上图标注1的文件中找到相应位置加入下面代码
+     ![配置图](http://7xpffz.com1.z0.glb.clouddn.com/图片1.png)
+       
+       
+  1.1、在上图标注1的文件中找到相应位置加入下面代码
 
 ```
 dependencies {
@@ -22,7 +23,8 @@ allprojects {
 1.3同步一下配置结束了
 
 2.使用
-     2.1、正负数的使用                
+     2.1、正负数的使用       
+           ![Alt text](http://7xpffz.com1.z0.glb.clouddn.com/1.gif)
 ```
  默认效果从零开始，以最小精度开始动画 ，支持正负数，可以直接设置               
  ntvTestOne.setNumberValue("100");
@@ -30,6 +32,8 @@ allprojects {
 ```
   2.2支持小数，可以n倍精度变化，通过这个功能，可以实现倒数第一位滚动，倒数第二位   
       滚动，倒数n位滚动。
+           ![Alt text](http://7xpffz.com1.z0.glb.clouddn.com/2.gif)
+
 ```
  //三倍精度增长
     ntvTestThree.setRollInt(3);
@@ -46,6 +50,8 @@ allprojects {
 ```
 
 2.3支持动画开始值的设定，以及动画最长时间的设置。这样可以拒绝从0开始的傻瓜式增长，通过该设置可以实现动画位数，例如比如168，设置成150开始，就是最后两位滚动。最长时间的设置可以保证当数字很大时，一直看动画－> _－> 并且支持动画结束以后的回调，可以查看动画开始时间，以及动画时间（时间与设定会有略微差距）.但设置了开始值又设定了动画时间，会比较哪一种方式比较快就会取哪一种
+      ![Alt text](http://7xpffz.com1.z0.glb.clouddn.com/3.gif)
+
 
  ntvTestSix.setNumberValue("95","100");
         ntvTestSeven.setMaxAnimDuration(2000);
