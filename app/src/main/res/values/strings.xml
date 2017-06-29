@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NumberTextViewDemo</string>
+    <string name="anim_again">再次动画</string>
+    <string name="positive_and_negative">正负数</string>
+    <string name="n_roll_int">n倍精度</string>
+    <string name="three_roll_int">3倍精度:</string>
+    <string name="the_last_roll">倒数第一位滚动</string>
+    <string name="second_last_roll">倒数第二为滚动</string>
+    <string name="the_start">指定开始值</string>
+    <string name="the_time_duration">指定动画时间</string>
+    <string name="symbol_and_unit">符号和单位</string>
+    <string name="other">其他</string>
+    <string name="property_setting">属性设置</string>
+
+</resources>
