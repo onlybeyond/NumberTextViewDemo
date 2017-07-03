@@ -1,5 +1,11 @@
 # NumberTextViewDemo# 
-使用
+
+一、介绍 
+      这是一个可以让数字滚动的TextView,他能兼容正数，负数，甚至是小数。翻滚的数字精度也完全可以由自己控制，每次可以变化精度的n倍，通过此功能可以实现倒数第一反转，倒数第二位翻转，倒数第n位翻转。支持设置开始翻滚的数值以及动画的最大时间。可以在数字后面设置单位，以前前面设置符号。支持控件属性设置
+ 
+
+
+二、使用使用
  1、项目配置</br>
     <div align=center> ![配置图](http://7xpffz.com1.z0.glb.clouddn.com/图片1.png?imageView2/0/w/400)</div>
        
@@ -93,6 +99,8 @@ umberTextView.NumberTextViewListener() {
 ntvTestNine.setNumberValue("100.9");
 
 ```
+详细介绍文章：http://www.jianshu.com/p/45a0e0f248a8
+
                               
                                                      <div align=center>扫描下载demo</div></br>
     <div align=center> ![配置图](http://7xpffz.com1.z0.glb.clouddn.com/ic_down.jpg?imageView2/0/w/300)</div>
