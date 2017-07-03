@@ -93,7 +93,9 @@ umberTextView.NumberTextViewListener() {
 ntvTestNine.setNumberValue("100.9");
 
 ```
-        
+  扫描下载demo
+          ![配置图](https://github.com/onlybeyond/NumberTextViewDemo/blob/master/app/src/main/res/mipmap-xhdpi/ic_down.jpg)            
+        
         
 
                 
