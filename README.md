@@ -94,7 +94,7 @@ ntvTestNine.setNumberValue("100.9");
 
 ```
   扫描下载demo
-          ![配置图](https://github.com/onlybeyond/NumberTextViewDemo/blob/master/app/src/main/res/mipmap-xhdpi/ic_down.jpg)            
+          ![配置图](http://7xpffz.com1.z0.glb.clouddn.com/ic_down.jpg?attname=)            
         
         
 
