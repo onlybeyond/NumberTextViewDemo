@@ -93,10 +93,10 @@ umberTextView.NumberTextViewListener() {
 ntvTestNine.setNumberValue("100.9");
 
 ```
-                                <div style=" margin:0 auto;">
-                                                      扫描下载demo</br>
-                                ![配置图](http://7xpffz.com1.z0.glb.clouddn.com/ic_down.jpg?imageView2/0/w/300) 
-                                </div>
+                              
+                                                      <center>扫描下载demo</center></br>
+                               <center> ![配置图](http://7xpffz.com1.z0.glb.clouddn.com/ic_down.jpg?imageView2/0/w/300) </center>
+                               
         
         
 
