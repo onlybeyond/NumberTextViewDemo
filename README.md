@@ -1,7 +1,7 @@
 # NumberTextViewDemo# 
 使用
- 1、项目配置
-     ![配置图](http://7xpffz.com1.z0.glb.clouddn.com/图片1.png?imageView2/0/w/300)
+ 1、项目配置</br>
+    <div align=center> ![配置图](http://7xpffz.com1.z0.glb.clouddn.com/图片1.png?imageView2/0/w/400)</div>
        
        
   1.1、在上图标注1的文件中找到相应位置加入下面代码
@@ -95,7 +95,7 @@ ntvTestNine.setNumberValue("100.9");
 ```
                               
                                                      <div align=center>扫描下载demo</div></br>
-                               <center> ![配置图](http://7xpffz.com1.z0.glb.clouddn.com/ic_down.jpg?imageView2/0/w/300) </center>
+<div align=center>![配置图](http://7xpffz.com1.z0.glb.clouddn.com/ic_down.jpg?imageView2/0/w/300) </div>
                                
         
         
