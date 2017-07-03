@@ -8,7 +8,7 @@
 
 ```
 dependencies {
-       compile 'com.github.onlybeyond:NubmerTextVeiw:1.0.5'
+       compile 'com.github.onlybeyond:NubmerTextVeiw:1.0.7'
 ｝
 ```
 1.2在上图标注2的文件中找到相应位置加入下面代码
